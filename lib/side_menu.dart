@@ -5,7 +5,7 @@ import 'package:my_portfolio/Pages/blog.dart';
 import 'package:my_portfolio/Pages/body_page.dart';
 import 'package:my_portfolio/Pages/contact.dart';
 import 'package:my_portfolio/Pages/cv.dart';
-import 'package:my_portfolio/Pages/portfolio.dart';
+import 'package:my_portfolio/Pages/portfolio/portfolioBody.dart';
 import 'package:my_portfolio/profile.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';

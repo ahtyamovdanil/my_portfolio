@@ -16,9 +16,9 @@ class Profile extends StatelessWidget {
                 backgroundColor: Colors.white60,
                 child: ClipOval(
                   child: Padding(
-                    padding: EdgeInsets.fromLTRB(0, 10, 0, 0),
+                    padding: EdgeInsets.fromLTRB(0, 0, 0, 0),
                     child: Image(
-                      image: AssetImage('images/avatar.png'),
+                      image: AssetImage('assets/images/avatar.jpg'),
                     ),
                   ),
                 ),
