@@ -1,4 +1,4 @@
 # My portfolio web page
 
-My personal paged built on Flutter
+My personal page built on Flutter
 
